@@ -58,3 +58,18 @@
 // }
 
 // Create a for-loop that runs 10 times, logging the numbers 1 through 10. Ex, on the first iteration it would log 1, on the second iteration it would log 2.
+
+// for (let i = 0; i <= 10; i++) {
+//   console.log(i)
+// }
+
+// for (let i = 10; i >= 0; i--) {
+//   console.log(i)
+// }
+
+let score = 0;
+let passingScore = 7;
+
+
+//   Create a while-loop that logs "Your score is not high enough" while the score variable above is below passingScore. In each iteration of the loop, increase the score by one. If your code is successful, you will see your logged statement 7 times.
+while ()
