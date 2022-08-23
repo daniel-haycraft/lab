@@ -6,7 +6,7 @@
   If it is not, console log "Coding has its challenges."
 */
 let lovesCode = true
-
+ALL CODE IS IN index.js!!!!!!!!!!!!!!!!!!!!!!!!!
 if (lovesCode === true){
   console.log('I love to code!')
 } else {
